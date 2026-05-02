@@ -29,7 +29,7 @@
     "@octokit/plugin-throttling": "^9.6.1",
     "minimatch": "^9.0.1",
     "p-limit": "^4.0.0",
-    "p-retry": "^5.1.2"
+    "p-retry": "^8.0.0"
   },
   "devDependencies": {
     "@jest/globals": "^29.5.0",
